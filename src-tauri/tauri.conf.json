@@ -1,7 +1,7 @@
 {
   "productName": "Archive UI",
   "version": "0.1.0",
-  "identifier": "com.whatev-indus.archive-org-uploader",
+  "identifier": "com.whatev-indus.archive-ui",
   "app": {
     "withGlobalTauri": true,
     "security": {

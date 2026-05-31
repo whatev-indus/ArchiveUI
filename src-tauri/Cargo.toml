@@ -1,11 +1,11 @@
 [package]
-name = "archive-org-uploader"
+name = "archive-ui"
 version = "0.1.0"
 edition = "2021"
 license = "GPL-2.0-only"
 
 [lib]
-name = "archive_org_uploader_lib"
+name = "archive_ui_lib"
 crate-type = ["lib", "cdylib", "staticlib"]
 
 [build-dependencies]
